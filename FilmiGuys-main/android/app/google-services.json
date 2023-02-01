@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057354263823",
+    "project_id": "filmiguys-108dd",
+    "storage_bucket": "filmiguys-108dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057354263823:android:d11ddb820c3e70c901627a",
+        "android_client_info": {
+          "package_name": "com.filmiguys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057354263823-uueb36rok3ovltu4pr5qcm0ccr5l4ua5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAauF4c8R8tBLCI4siMYKy78EAszHDK8dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057354263823-uueb36rok3ovltu4pr5qcm0ccr5l4ua5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
